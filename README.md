@@ -2,3 +2,4 @@
 2. Went on my Github and checked if everything went right.
 3. Wrote readme.
 4. Added script and function into html
+5. Added a button and gave it a function to display an alert
